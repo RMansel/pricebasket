@@ -7,7 +7,7 @@ with open("requirements.txt", "r", encoding="utf-8") as handle:
     reqs = handle.read()
 
 setup(
-    name='mytool',
+    name='pricebasket',
     version='0.0.1',
     author='Rhys Mansel',
     author_email='r.mansel@perceivedata.com',
